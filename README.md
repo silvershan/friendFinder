@@ -2,7 +2,9 @@
 
 ## About
 
-The Friend Finder app allows the user to complete a survey and get matched with a friend that has similar interests.  The survery has a set of 10 questions with options 1 - 5 for how strongly the user agrees with that question.
+Problem: Finding friends in such a large city!
+
+How this problem is solved: The friend finder app allows the user to complete a survey and get matched with a friend that has similar interests.  The survery has a set of 10 questions with options 1 - 5 for how strongly the user agrees with that question.
 
 ### Prerequisites
 
