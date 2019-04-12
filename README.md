@@ -17,5 +17,5 @@ The app runs on port 8080.  To view this on a local machine, you would type "loc
 
 ## Deployment
 
-This app can be found on Heroku!  https://friendlyapp.herokuapp.com/https://friendlyapp.herokuapp.com/
+This app can be found on Heroku!  https://friendlyapp.herokuapp.com/
 
